@@ -1,0 +1,15 @@
+{
+  "name": "nordicbot",
+  "version": "1.0.0",
+  "description": "NordicNetwork Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noridc",
+  "license": "ISC",
+  "dependencies": {
+    "fivereborn-query": "^1.0.4",
+    "discord.js": "^11.5.1"
+  }
+}
